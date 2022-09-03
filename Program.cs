@@ -1,7 +1,7 @@
 using System;
 using static System.Console;
 
-Clear();
+Console.Clear();
 
 int M = AskNumber("M");
 int N = AskNumber("N");
